@@ -1,5 +1,5 @@
 # Extendible-Hashing
-Extendible Hashing in C++
+Extendible Hashing in C
 
 ### How To Compile
     gcc hashing.c -lm
