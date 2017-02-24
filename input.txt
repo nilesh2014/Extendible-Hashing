@@ -1,0 +1,21 @@
+insert  1  
+insert  2  
+insert  3  
+insert  4  
+insert  6  
+insert  10  
+insert  26
+insert  14
+status  
+insert  22
+status  
+delete  6  
+status
+delete  2  
+status
+delete  4
+status
+delete  22
+status
+delete  14
+status
