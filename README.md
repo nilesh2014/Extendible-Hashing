@@ -16,7 +16,7 @@ A bucket can contain these many entries in it.
     With this option calling delete <key> will delete the entry from corosponding bucket.
 2. MergeBucketDelete
     With this option calling delete <key> wil delete the entry from corosponding bucket as well as if possible(if bucket gets enmpty) the bucket will be merged with its mirror bucket.
-3 ShrinkDirectoryDelete
+3. ShrinkDirectoryDelete
     With this option calling delete <key> will do what MergeBucketDelete do. In addition, it will shrink the directry structure.
 
 ###### Condition For Delete Option 2 and 3
